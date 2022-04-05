@@ -1,4 +1,4 @@
-# Nodejs Modules - install with npm i or npm install
+# Nodejs modules for installer- install with npm i or npm install
 node_modules
 # Client-specific configuration files, see setup.js to generate
 config
